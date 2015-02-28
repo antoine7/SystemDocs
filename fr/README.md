@@ -14,5 +14,5 @@ Fournit des informations sur l'interaction avec le réseau et les rôles des dif
 * **S’impliquer**<br />
 Fournit des informations sur l'endroit où aller si vous voulez vous impliquer.
 
-* **FAQs**<br />
-Si vous ne trouvez pas l'information que vous cherchez, le FAQs liste des questions et réponses communes.
+* **FAQ**<br />
+Si vous ne trouvez pas l'information que vous cherchez, la FAQ liste des questions et réponses communes.
